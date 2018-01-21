@@ -1,4 +1,4 @@
-# asterisk-autoinstall
+# OpenStack OCATA installation tutorial
 This is my first OpenStack tutorial, step by step, done by me on @TigerLinux Cloud Computing Training
 
 ## Pre-req:
